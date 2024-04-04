@@ -172,7 +172,7 @@ public class ContactBookFile {
                     System.out.println("Good-bye :(");
                     System.exit(0);
                 default:
-                    System.out.println("Invalid choice. Please enter a valid option.");
+                    System.out.println("Invalid option. Please enter a valid option.");
             }
         }
     }
